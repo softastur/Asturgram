@@ -4,7 +4,7 @@
 
 Esta bifórcación non oficial básase en [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) qu'al empar tamién se basa na aplicación orixinal [Telegram App for Android](https://github.com/DrKLO/Telegram).
 
-## Changes:
+## Cambeos:
 
 *Troquéu de binarios y/o códigu fonte sospechosos que nun cumplen colos principios FOSS:*
 - Compártese l'allugamientu con OpenStreetMap(osmdroid) en cuentes de Google Maps
