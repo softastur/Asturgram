@@ -4,7 +4,7 @@ Dende [Android 8.0 Oreo, Google yá nun permite que les aplicaciones s'executen 
 
 Darréu que nun se pue usar el serviciu push de mensaxería de Google nuna aplicación FOSS, Asturgram tien d'amosar un avisu pa caltener l'aplicación executándose en segundu planu. D'otramiente, nun dibes recibir los avisos de los mensaxes nuevos.
 
-Desafortunadamente, si l'aplicación s'afita nuna prioridá baxa (p'anubrir esi avisu na parte baxera de la pantalla d'avisos), vas tener darréu un avisu del sistema alarmándote del usu qu'Asturgram fai de la batería, lo que ye confuso y nun hai razón pa qu'esto seya'l comportamientu predetermináu. Pese a les alvertencies falses de Google, nun hai nunguna diferencia tocante al usu de batería ente versiones.
+Desafortunadamente, si l'aplicación s'afita nuna prioridá baxa (p'anubrir esi avisu na parte baxera de la pantalla d'avisos), vas tener darréu un avisu del sistema alarmándote del usu qu'Asturgram fai de la batería, lo que ye confuso y nun hai razón pa qu'esto seya'l comportamientu predetermináu. Pese a les alvertencies falses de Google, nun hai nenguna diferencia tocante al usu de batería ente versiones.
 
 ## Ameyora de la situación
 
